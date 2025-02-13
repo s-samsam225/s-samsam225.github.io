@@ -3,7 +3,7 @@ layout: page
 title: Our Team
 ---
 
-![Picture of Roisin Gross](assets/img/RoisinGross.jpg)
+<img src="assets/img/RoisinGross.jpg" alt="Picture of Roisin Gross" width="200"/>
 
 What else do you need?
 
