@@ -1,16 +1,12 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Our Team
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
+![Picture of Roisin Gross](assets/img/RoisinGross.jpg)
 
 What else do you need?
 
-### My story
+### Open Positions:
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+As of now, there are no open board positions but if you are interested please check this page for additional updates and attend events which can be found on our Home page. 
