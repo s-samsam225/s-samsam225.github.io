@@ -9,7 +9,7 @@ title: Our Team
 
 [comment]: <> (President)
 <figure>
-  <img float=left src="assets/img/JustinTopete.jpg" alt="Picture of Justin Topete" width="200"/>
+  <img float=left src="https://s-samsam225.github.io/assets/img/JustinTopete.jpg" alt="Picture of Justin Topete" width="200"/>
   <figcaption>
     President <br>
     he/him/his <br>
