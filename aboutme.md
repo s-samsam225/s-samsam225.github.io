@@ -3,9 +3,13 @@ layout: page
 title: Our Team
 ---
 
+<div style="color:green">
+  Markdown inline CSS  
+</div>
+
 [comment]: <> (President)
 <figure>
-  <img src="assets/img/JustinTopete.jpg" alt="Picture of Justin Topete" width="200"/>
+  <img float=left src="assets/img/JustinTopete.jpg" alt="Picture of Justin Topete" width="200"/>
   <figcaption>
     President <br>
     he/him/his <br>
@@ -16,7 +20,7 @@ title: Our Team
 
 [comment]: <> (Co-VPI)
 <figure>
-<img src="assets/img/OliviaScarborough.jpg" alt="Picture of Olivia Scarborough" width="200"/>
+<img float=center src="assets/img/OliviaScarborough.jpg" alt="Picture of Olivia Scarborough" width="200"/>
       <figcaption>
         Co-Vice President Internal <br>
         they/them <br>
