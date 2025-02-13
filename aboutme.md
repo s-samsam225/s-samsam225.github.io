@@ -14,83 +14,102 @@ title: Our Team
   </figcaption>
 </figure>
 
+[comment]: <> (Co-VPI)
 <figure>
 <img src="assets/img/OliviaScarborough.jpg" alt="Picture of Olivia Scarborough" width="200"/>
       <figcaption>
-        Co-Vice President External <br>
+        Co-Vice President Internal <br>
         they/them <br>
         Major: Biological Anthropology & Social Psychology <br>
         Class of 2026 <br><br>
       </figcaption>
 </figure>
 
+[comment]: <> (Co-VPI)
+<figure>
+<img src="assets/img/SelenaWang.jpg" alt="Picture of Selena Wang" width="200"/>
+    <figcaption>
+      Co-Vice President Internal <br>
+      she/her <br>
+      Major: Molecular & Cell Biology <br>
+      Class of 2028 <br><br>
+    </figcaption>
+</figure>
+
+[comment]: <> (VPE)
 <figure>
 <img src="assets/img/NehalChoudhary.jpg" alt="Picture of Nehal Choudhary" width="200"/>
         <figcaption>
-          Co-Vice President External <br>
+          Vice President External <br>
           she/her <br>
           Major: Math - Computer Science <br>
           Class of 2027 <br><br>
         </figcaption>
 </figure>
 
-[comment]: <> (VPE)
+[comment]: <> (VPF)
 <figure>
   <img src="assets/img/RoisinGross.jpg" alt="Picture of Roisin Gross" width="200"/>
   <figcaption>
-    Vice President of Finance <br>
+    Vice President Finance <br>
     she/her/hers <br>
     Major: Chemical Engineering <br>
     Class of 2027 <br><br>
   </figcaption>
 </figure>
 
-<figure>
-<img src="assets/img/SelenaWang.jpg" alt="Picture of Selena Wang" width="200"/>
-    <figcaption>she/her <br><br>
-      Major: Molecular & Cell Biology <br><br>
-      Class of 2028
-    </figcaption>
-</figure>
-
-
+[comment]: <> (Secretary)
 <figure>
 <img src="assets/img/BodeBrisino.jpeg" alt="Picture of Bode Brisino" width="200"/>
-         <figcaption>he/him/his <br><br>
-            Major: Human Biology <br><br>
-            Class of 2026
+         <figcaption>
+            Secretary <br>
+            he/him/his <br>
+            Major: Human Biology <br>
+            Class of 2026 <br><br>
           </figcaption>
 </figure>
 
+[comment]: <> (Publicity Chair)
 <figure>
 <img src="assets/img/LydiaChen.JPG" alt="Picture of Lydia Chen" width="200"/>
-         <figcaption>they/she <br><br>
-            Major: Human Biology <br><br>
-            Class of 2027
+         <figcaption>
+            Publicity Chair <br>
+            they/she <br>
+            Major: Human Biology <br>
+            Class of 2027 <br><br>
           </figcaption>
 </figure>
 
+[comment]: <> (Engi-Queers Chair)
 <figure>
 <img src="assets/img/Ariel.jpg" alt="Picture of Ariel" width="200"/>
-          <figcaption>they/them/he/him <br><br>
-            Major: Electrical Engineering <br><br>
-            Class of 2024
+          <figcaption>
+            Engi-Queers Chair <br>
+            they/them/he/him <br>
+            Major: Electrical Engineering <br>
+            Class of 2024 <br><br>
           </figcaption>
 </figure>
 
+[comment]: <> (Social Chair)
 <figure>
 <img src="assets/img/BeatriceFung.jpg" alt="Picture of Beatrice Fung" width="200"/>
-          <figcaption>she/they <br><br>
-            Major: Human Biology <br><br>
-            Class of 2028
+          <figcaption>
+            Social Chair <br>
+            she/they <br>
+            Major: Human Biology <br>
+            Class of 2028 <br><br>
           </figcaption>
 </figure>
 
+[comment]: <> (Webmaster)
 <figure>
 <img src="assets/img/SameeraAgarwala.jpg" alt="Picture of Sameera Agarwala" width="200"/>
-          <figcaption>she/her/hers <br><br>
-            Major: Computer Science - Bioinformatics <br><br>
-            Class of 2027
+          <figcaption>
+            Webmaster <br>
+            she/her/hers <br>
+            Major: Computer Science - Bioinformatics <br>
+            Class of 2027 <br><br>
           </figcaption>
 </figure>
 
