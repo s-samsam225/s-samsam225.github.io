@@ -20,7 +20,7 @@ title: Our Team
 
 [comment]: <> (Co-VPI)
 <figure>
-<img float=center src="assets/img/OliviaScarborough.jpg" alt="Picture of Olivia Scarborough" width="200"/>
+<img float=center src="https://s-samsam225.github.io/assets/img/OliviaScarborough.jpg" alt="Picture of Olivia Scarborough" width="200"/>
       <figcaption>
         Co-Vice President Internal <br>
         they/them <br>
@@ -31,7 +31,7 @@ title: Our Team
 
 [comment]: <> (Co-VPI)
 <figure>
-<img src="assets/img/SelenaWang.jpg" alt="Picture of Selena Wang" width="200"/>
+<img src="https://s-samsam225.github.io/assets/img/SelenaWang.jpg" alt="Picture of Selena Wang" width="200"/>
     <figcaption>
       Co-Vice President Internal <br>
       she/her <br>
@@ -42,7 +42,7 @@ title: Our Team
 
 [comment]: <> (VPE)
 <figure>
-<img src="assets/img/NehalChoudhary.jpg" alt="Picture of Nehal Choudhary" width="200"/>
+<img src="https://s-samsam225.github.io/assets/img/NehalChoudhary.jpg" alt="Picture of Nehal Choudhary" width="200"/>
         <figcaption>
           Vice President External <br>
           she/her <br>
@@ -53,7 +53,7 @@ title: Our Team
 
 [comment]: <> (VPF)
 <figure>
-  <img src="assets/img/RoisinGross.jpg" alt="Picture of Roisin Gross" width="200"/>
+  <img src="https://s-samsam225.github.io/assets/img/RoisinGross.jpg" alt="Picture of Roisin Gross" width="200"/>
   <figcaption>
     Vice President Finance <br>
     she/her/hers <br>
@@ -64,7 +64,7 @@ title: Our Team
 
 [comment]: <> (Secretary)
 <figure>
-<img src="assets/img/BodeBrisino.jpeg" alt="Picture of Bode Brisino" width="200"/>
+<img src="https://s-samsam225.github.io/assets/img/BodeBrisino.jpeg" alt="Picture of Bode Brisino" width="200"/>
          <figcaption>
             Secretary <br>
             he/him/his <br>
@@ -75,7 +75,7 @@ title: Our Team
 
 [comment]: <> (Publicity Chair)
 <figure>
-<img src="assets/img/LydiaChen.JPG" alt="Picture of Lydia Chen" width="200"/>
+<img src="https://s-samsam225.github.io/assets/img/LydiaChen.JPG" alt="Picture of Lydia Chen" width="200"/>
          <figcaption>
             Publicity Chair <br>
             they/she <br>
@@ -86,7 +86,7 @@ title: Our Team
 
 [comment]: <> (Engi-Queers Chair)
 <figure>
-<img src="assets/img/Ariel.jpg" alt="Picture of Ariel" width="200"/>
+<img src="https://s-samsam225.github.io/assets/img/Ariel.jpg" alt="Picture of Ariel" width="200"/>
           <figcaption>
             Engi-Queers Chair <br>
             they/them/he/him <br>
@@ -97,7 +97,7 @@ title: Our Team
 
 [comment]: <> (Social Chair)
 <figure>
-<img src="assets/img/BeatriceFung.jpg" alt="Picture of Beatrice Fung" width="200"/>
+<img src="https://s-samsam225.github.io/assets/img/BeatriceFung.jpg" alt="Picture of Beatrice Fung" width="200"/>
           <figcaption>
             Social Chair <br>
             she/they <br>
@@ -108,7 +108,7 @@ title: Our Team
 
 [comment]: <> (Webmaster)
 <figure>
-<img src="assets/img/SameeraAgarwala.jpg" alt="Picture of Sameera Agarwala" width="200"/>
+<img src="https://s-samsam225.github.io/assets/img/SameeraAgarwala.jpg" alt="Picture of Sameera Agarwala" width="200"/>
           <figcaption>
             Webmaster <br>
             she/her/hers <br>
