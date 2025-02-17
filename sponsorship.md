@@ -1,1 +1,4 @@
-#Sponsorships
+---
+layout: page
+title: Sponsorship
+---
