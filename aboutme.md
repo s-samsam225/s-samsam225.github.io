@@ -44,7 +44,7 @@ title: Our Team
           Vice President External <br>
           she/her <br>
           Major: Math - Computer Science <br>
-          Class of 2027 <br><br>
+          Class of 2028 <br><br>
         </figcaption>
 </figure>
 
