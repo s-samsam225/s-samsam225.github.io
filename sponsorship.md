@@ -12,26 +12,27 @@ title: Sponsorship
     width: 456px;
     padding: 10px;
     border-radius: 10px;
-    text-align: center; /* Default center text */
+    text-align: center;
   }
 
-  /* Flexbox container to arrange boxes */
+  /* Grid container to arrange boxes */
   .box-container {
-    display: flex;
-    flex-wrap: wrap; /* Allows wrapping if needed */
-    justify-content: space-around; /* Distributes space evenly */
-    gap: 20px; /* Adds spacing between boxes */
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* 2 columns */
+    gap: 20px; /* Space between boxes */
+    max-width: 1000px; /* Limits width */
+    margin: 0 auto; /* Centers grid container */
   }
 
-  /* Align the first box to the left */
-  .left-box {
-    text-align: left;
+  /* Moves the first box to the left */
+  .first-box {
+    justify-self: start; /* Aligns the first box to the left */
   }
 </style>
 
-<!-- Box Container -->
+<!-- Box Grid Container -->
 <div class="box-container">
-  <div class="boxed left-box">
+  <div class="boxed first-box">
     Company Panel
   </div>
   <div class="boxed">
