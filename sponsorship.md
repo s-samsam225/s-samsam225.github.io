@@ -10,6 +10,7 @@ title: Sponsorship
     color: black;
     border: 3px solid #535353;
     width: 456px;
+    height: 2000px;
     padding: 10px;
     border-radius: 10px;
     text-align: center;
