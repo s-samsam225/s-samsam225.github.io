@@ -9,7 +9,7 @@ title: Our Team
         color: black;
         border: 3px solid #535353;
         width: 456px;
-        height: 250px;
+        height: 400px;
         padding: 10px;
         border-radius: 10px;
         text-align: center;
@@ -23,7 +23,7 @@ title: Our Team
         display: grid;
         grid-template-columns: repeat(2, 1fr); /* 2 columns */
         gap: 5px; /* Space between boxes */
-        max-width: 1000px; /* Limits width */
+        max-width: 500px; /* Limits width */
       }
 
     .first-box {
