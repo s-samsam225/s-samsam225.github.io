@@ -16,13 +16,18 @@ title: Sponsorship
     text-align: center;
   }
 
+  /* Wrapper to center the grid */
+  .grid-wrapper {
+    display: flex;
+    justify-content: center; /* Centers the grid */
+  }
+
   /* Grid container to arrange boxes */
   .box-container {
     display: grid;
     grid-template-columns: repeat(2, 1fr); /* 2 columns */
     gap: 20px; /* Space between boxes */
     max-width: 1000px; /* Limits width */
-    margin: 0 auto; /* Centers grid container */
   }
 
   /* Moves the first box to the left */
@@ -31,18 +36,20 @@ title: Sponsorship
   }
 </style>
 
-<!-- Box Grid Container -->
-<div class="box-container">
-  <div class="boxed first-box">
-    Company Panel
-  </div>
-  <div class="boxed">
-    Workshop
-  </div>
-  <div class="boxed">
-    General Body Meeting
-  </div>
-  <div class="boxed">
-    Professional Evening with Industry (PEI)
+<!-- Wrapper to ensure the grid is centered -->
+<div class="grid-wrapper">
+  <div class="box-container">
+    <div class="boxed first-box">
+      Company Panel
+    </div>
+    <div class="boxed">
+      Workshop
+    </div>
+    <div class="boxed">
+      General Body Meeting
+    </div>
+    <div class="boxed">
+      Professional Evening with Industry (PEI)
+    </div>
   </div>
 </div>
