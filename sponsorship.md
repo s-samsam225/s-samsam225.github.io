@@ -17,6 +17,6 @@ title: Sponsorship
 </style>
 
 <!-- Boxed content -->
-<div class="boxed">
+<div class="boxed" style="text-align: left;">
   Company Panel
 </div>
