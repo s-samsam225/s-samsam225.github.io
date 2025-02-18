@@ -9,7 +9,7 @@ title: Our Team
         color: black;
         border: 3px solid #535353;
         width: 456px;
-        height: 500px;
+        height: 250px;
         padding: 10px;
         border-radius: 10px;
         text-align: center;
@@ -33,7 +33,6 @@ title: Our Team
 
 <div class = "grid-wrapper">
   <div class="box-container">
-        /*President*/
         <div class="boxed first-box">
         <figure>
         <img float=left src="https://s-samsam225.github.io/assets/img/JustinTopete.jpg"              alt="Picture of Justin Topete" width="200"/>
@@ -45,7 +44,6 @@ title: Our Team
               </figcaption>
         </figure> 
         </div>
-        /*VPI*/
         <div class = "boxed">
         <figure>
         <img float=center src="https://s-samsam225.github.io/assets/img/OliviaScarborough.jpg" alt="Picture of Olivia Scarborough" width="200"/>
@@ -57,7 +55,6 @@ title: Our Team
             </figcaption>
         </figure>
         </div>
-        /*VPI*/
         <div class = "boxed">
         <figure>
         <img src="https://s-samsam225.github.io/assets/img/SelenaWang.jpg" alt="Picture of Selena Wang" width="200"/>
@@ -69,7 +66,6 @@ title: Our Team
             </figcaption>
         </figure>
         </div> 
-        /*VPE*/
         <div class = "boxed">
         <figure>
         <img src="https://s-samsam225.github.io/assets/img/NehalChoudhary.jpg" alt="Picture of Nehal Choudhary" width="200"/>
@@ -81,7 +77,6 @@ title: Our Team
             </figcaption>
         </figure>
         </div>
-        /*VPF*/
         <div class = "boxed">
         <figure>
         <img src="https://s-samsam225.github.io/assets/img/RoisinGross.jpg" alt="Picture of Roisin Gross" width="200"/>
@@ -93,7 +88,6 @@ title: Our Team
             </figcaption>
         </figure>
         </div>
-        /*Secretary*/
         <div class = "boxed">
         <figure>
         <img src="https://s-samsam225.github.io/assets/img/BodeBrisino.jpeg" alt="Picture of Bode Brisino" width="200"/>
@@ -105,7 +99,6 @@ title: Our Team
             </figcaption>
         </figure>
         </div>
-        /*Publicity Chair*/
         <div class = "boxed">
         <figure>
         <img src="https://s-samsam225.github.io/assets/img/LydiaChen.JPG" alt="Picture of Lydia Chen" width="200"/>
@@ -117,7 +110,6 @@ title: Our Team
               </figcaption>
         </figure>
         </div>
-        /*Engi-Queers Chair*/
         <div class = "boxed">
         <figure>
         <img src="https://s-samsam225.github.io/assets/img/Ariel.jpg" alt="Picture of Ariel" width="200"/>
@@ -129,7 +121,6 @@ title: Our Team
             </figcaption>
         </figure>
         </div>
-        /*Social Chair*/
         <div class = "boxed">
         <figure>
         <img src="https://s-samsam225.github.io/assets/img/BeatriceFung.jpg" alt="Picture of Beatrice Fung" width="200"/>
@@ -141,7 +132,6 @@ title: Our Team
               </figcaption>
         </figure>
         </div>
-        /*Webmaster*/
         <div class = "boxed">
         <figure>
         <img src="https://s-samsam225.github.io/assets/img/SameeraAgarwala.jpg" alt="Picture of Sameera Agarwala" width="200"/>
