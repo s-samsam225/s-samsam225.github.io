@@ -17,6 +17,7 @@ title: Our Team
               
     .grid-wrapper {
         display: flex;
+        justify-content: center;
       }
 
     .box-container {
