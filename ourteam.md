@@ -9,14 +9,13 @@ title: Our Team
         color: black;
         border: 3px solid #535353;
         width: 456px;
-        height: 470px;
+        height: 450px;
         padding: 10px;
         border-radius: 10px;
         text-align: center;
               
     .grid-wrapper {
         display: flex;
-        justify-content: center; /* Centers the grid */
       }
 
     .box-container {
