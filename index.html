@@ -7,24 +7,30 @@ title: oSTEM @ UCSD
 
 <br> At oSTEM, we are dedicated to fostering a supportive and inclusive community for LGBTQ+ individuals in STEM. Through mentorship, professional development, and social events, we empower students to thrive academically, professionally, and personally. Join us in building a future where diversity drives innovation!
 
-// Images 
-<div class="swiper mySwiper">
-    <div class="swiper-wrapper">
-        <div class="swiper-slide">
-            <img src="https://s-samsam225.github.io/assets/img/oSTEMConfrence.jpg" alt="Event 1">
-        </div>
-        <div class="swiper-slide">
-            <img src="https://s-samsam225.github.io/assets/img/oSTEMConference 2019.jpg" alt="Event 2">
-        </div>
-        <div class="swiper-slide">
-            <img src="https://s-samsam225.github.io/assets/img/crepe" alt="Event 3">
-        </div>
+/*Image Deck*/
+<div class="slideshow-container">
+    <div class="slide fade">
+        <img src = "https://s-samsam225.github.io/assets/img/ostemConfrence" alt = "oSTEM Conference 2024">
     </div>
-    <!-- Pagination & Navigation -->
-    <div class="swiper-pagination"></div>
-    <div class="swiper-button-prev"></div>
-    <div class="swiper-button-next"></div>
+    <div class = "slide fade">
+        <img src = "https://s-samsam225.github.io/assets/img/ostem Conference 2019" alt= "oSTEM Conference 2019">
+    </div>
+    <div class="slide fade">
+        <img src="https://via.placeholder.com/800x400/3357FF/FFFFFF?text=Slide+3" alt="Slide 3">
+    </div>
+
+    <!-- Navigation buttons -->
+    <a class="prev" onclick="changeSlide(-1)">&#10094;</a>
+    <a class="next" onclick="changeSlide(1)">&#10095;</a>
 </div>
+
+<!-- Dots for navigation -->
+<div class="dots-container">
+    <span class="dot" onclick="currentSlide(1)"></span>
+    <span class="dot" onclick="currentSlide(2)"></span>
+    <span class="dot" onclick="currentSlide(3)"></span>
+</div>
+
 
 <h1>Upcoming Events</h1>
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FLos_Angeles&showPrint=0&src=b3N0ZW1AdWNzZC5lZHU&src=YWRkcmVzc2Jvb2sjY29udGFjdHNAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&src=Y19icGp2M3UzaTU4czFrYzdrdGhwY2UwYWk0Y0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=Y18ya2czNnUyYzJkOXNuazJpbGVob3M4ZTEyZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&color=%23039BE5&color=%2333B679&color=%23A79B8E&color=%233F51B5&color=%230B8043" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
