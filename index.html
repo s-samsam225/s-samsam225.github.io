@@ -3,17 +3,81 @@ layout: home
 title: oSTEM @ UCSD
 ---
 <style>
-    .slideshow-container img {
-    width: 100%;
-    max-width: 600px;
-    height: auto;
-    display: block;
-    margin: auto;
-
-    .slide-fade {
-        
-    }
+    /* Slideshow container */
+.slideshow-container {
+    position: relative;
+    max-width: 100%;
+    height: 500px; /* Adjust as needed */
+    overflow: hidden;
 }
+
+/* Hide all slides initially */
+.slide {
+    display: none;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+
+/* Image styling */
+.slide img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+/* Navigation arrows */
+.prev, .next {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 24px;
+    font-weight: bold;
+    padding: 10px;
+    color: white;
+    background: rgba(0, 0, 0, 0.5);
+    border-radius: 50%;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.prev { left: 10px; }
+.next { right: 10px; }
+
+.prev:hover, .next:hover {
+    background: rgba(0, 0, 0, 0.8);
+}
+
+/* Dots */
+.dots-container {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.dot {
+    height: 15px;
+    width: 15px;
+    margin: 5px;
+    background-color: gray;
+    border-radius: 50%;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.active, .dot:hover {
+    background-color: white;
+}
+
+/* Animation */
+.fade {
+    animation: fadeEffect 1s;
+}
+
+@keyframes fadeEffect {
+    from { opacity: 0.4; }
+    to { opacity: 1; }
+}
+
 
 </style>
 
@@ -50,4 +114,44 @@ title: oSTEM @ UCSD
 
 <h1>Stay in the Loop</h1>
 <p>To receive weekly updates on our opportunities and events join our newsletter below!</p>
+
+<script>
+let slideIndex = 1;
+showSlides(slideIndex);
+
+// Function to change slides using arrows
+function changeSlide(n) {
+    showSlides(slideIndex += n);
+}
+
+// Function to go to a specific slide using dots
+function currentSlide(n) {
+    showSlides(slideIndex = n);
+}
+
+// Function to display the correct slide
+function showSlides(n) {
+    let slides = document.getElementsByClassName("slide");
+    let dots = document.getElementsByClassName("dot");
+
+    if (n > slides.length) { slideIndex = 1; }
+    if (n < 1) { slideIndex = slides.length; }
+
+    for (let i = 0; i < slides.length; i++) {
+        slides[i].style.display = "none";
+    }
+
+    for (let i = 0; i < dots.length; i++) {
+        dots[i].classList.remove("active");
+    }
+
+    slides[slideIndex - 1].style.display = "block";
+    dots[slideIndex - 1].classList.add("active");
+}
+
+// Auto slideshow feature (change every 3 seconds)
+setInterval(() => {
+    changeSlide(1);
+}, 3000);
+</script>
 
