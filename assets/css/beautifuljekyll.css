@@ -39,6 +39,9 @@ body {
   {% if site.page-img %}
   background-image: url({{ site.page-img | relative_url }});
   background-attachment: fixed;
+  background-size: cover; /* Ensures the image covers the entire screen */
+  background-position: center; /* Centers the image */
+  background-repeat: no-repeat; /* Prevents tiling */
   {% endif %}
   overflow-wrap: break-word;
   min-height: 100vh;
