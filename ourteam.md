@@ -13,6 +13,7 @@ title: Our Team
         padding: 10px;
         border-radius: 10px;
         text-align: center;
+    }
               
     .grid-wrapper {
         display: flex;
