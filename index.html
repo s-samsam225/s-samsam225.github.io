@@ -27,6 +27,7 @@ title: oSTEM @ UCSD
 }
 
 .slide active {
+    display: block;
     
 }
 
@@ -74,11 +75,11 @@ title: oSTEM @ UCSD
 
  /* Animation */
 .fade {
-    animation: fadeEffect 2s; */
+    animation: fadeEffect 0.8s ease-in-out;
  } 
 
 @keyframes fadeEffect {
-    from { opacity: 1; }
+    from { opacity: 0.4; }
     to { opacity: 1; }
 }
 
@@ -142,17 +143,16 @@ function showSlides(n) {
     if (n < 1) { slideIndex = slides.length; }
 
     for (let i = 0; i < slides.length; i++) {
-        slides[i].style.display = "none";
+        slides[i].classList.remove("active");
     }
 
     for (let i = 0; i < dots.length; i++) {
         dots[i].classList.remove("active");
     }
 
-    slides[slideIndex - 1].style.display = "block";
+    slides[slideIndex - 1].classList.add("active");
     dots[slideIndex - 1].classList.add("active");
 }
-
 // Auto slideshow feature (change every 3 seconds)
 setInterval(() => {
     changeSlide(1);
