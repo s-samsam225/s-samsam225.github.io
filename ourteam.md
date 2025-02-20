@@ -33,10 +33,10 @@ title: Our Team
 </style>
 
 <div class = "grid-wrapper">
-  <div class="box-container">
-        <div class="boxed first-box">
+  <div class = "box-container">
+        <div class = "boxed first-box">
         <figure>
-        <img float=left src="https://s-samsam225.github.io/assets/img/JustinTopete.jpg" alt="Picture of Justin Topete" width="200"/>
+        <img float = left src = "https://s-samsam225.github.io/assets/img/JustinTopete.jpg" alt = "Picture of Justin Topete" width = "200"/>
             <figcaption>
                 President <br>
                 he/him/his <br>
@@ -47,7 +47,7 @@ title: Our Team
         </div>
         <div class = "boxed">
         <figure>
-        <img float=center src="https://s-samsam225.github.io/assets/img/OliviaScarborough.jpg" alt="Picture of Olivia Scarborough" width="200"/>
+        <img float = center src = "https://s-samsam225.github.io/assets/img/OliviaScarborough.jpg" alt="Picture of Olivia Scarborough" width="200"/>
             <figcaption>
                 Co-Vice President Internal <br>
                 they/them <br>
