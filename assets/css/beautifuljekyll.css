@@ -37,7 +37,7 @@ body {
   position: relative;
   background-color: var(--page-col);
   {% if site.page-img %}
-  background-image: url('/assets/img/Background.jpg'); /* Adjust path */
+  background-image: url('https://s-samsam225.github.io/assets/img/Background.jpg'); /* Adjust path */
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
