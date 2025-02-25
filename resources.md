@@ -1,2 +1,4 @@
---
-Title: Resources
+---
+layout: page
+title: Membership
+---
