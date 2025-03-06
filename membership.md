@@ -9,8 +9,8 @@ title: Membership
     background: #F2F2F2;
     color: black;
     border: 3px solid #535353;
-    width: 700px;
-    height: 350px;
+    width: 720px;
+    height: 400px;
     padding: 10px;
     border-radius: 10px;
     text-align: center;
