@@ -151,6 +151,12 @@ img {
     margin-top: 2.5rem;
   }
 }
+ @media (max-width: 768px) {
+    .boxed {
+      width: 90%; /* Keeps it readable on small screens */
+      padding: 15px;
+    }
+  }
 
 /* --- Navbar --- */
 
