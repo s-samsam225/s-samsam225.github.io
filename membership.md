@@ -48,7 +48,7 @@ title: Membership
 <!-- Wrapper to ensure the grid is centered -->
 <div class="grid-wrapper">
   <div class="box-container">
-    <div class="boxed first-box">
+    <div class="boxed">
       <h3>Professional Evening with Industry (PEI)</h3>
 <p>The Diversity Organizations of the Jacobs School of Engineering come together every year to hold a unique event for companies to meet with the accomplished students of the Jacobs School of Engineering. Our five organizations have come together to create this exceptional annual event to build a bridge between all three sectors: the student, the professional, and the community. Company representatives are welcome to mingle with students through formal and informal spaces.</p>
     </div>
