@@ -27,7 +27,7 @@ title: Membership
   /* Grid container to arrange boxes */
   .box-container {
     display: grid;
-    grid-template-columns: repeat(2, 1fr); /* 2 columns */
+    grid-template-columns: 
     gap: 20px; /* Space between boxes */
     max-width: 1000px; /* Limits width */
   }
