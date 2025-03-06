@@ -32,6 +32,17 @@ title: Membership
     max-width: 1000px; /* Limits width */
   }
 
+  @media (max-width: 768px) {
+  .box-container {
+    grid-template-columns: 1fr; /* Single column on small screens */
+  }
+
+  .boxed {
+    width: 90%; /* Makes it more responsive */
+    height: auto;
+  }
+}
+  
   /* Moves the first box to the left */
   .first-box {
     justify-self: start; /* Aligns the first box to the left */
