@@ -40,6 +40,8 @@ title: Membership
   .boxed {
     width: 90%; /* Makes it more responsive */
     height: auto;
+    justify-content: center; /* Centers the grid */
+    align-item: center;
   }
 }
   
