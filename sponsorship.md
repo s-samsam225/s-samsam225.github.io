@@ -40,16 +40,27 @@ title: Sponsorship
 <div class="grid-wrapper">
   <div class="box-container">
     <div class="boxed first-box">
-      Company Panel
+      <h>Company Panel</h>
+      <h4>IN-PERSON/HYBRID: $350</h4>
+       <h4>VIRTUAL: $250</h4>
+      <p>Host a virtual, in person, or hybrid panel to talk to our membership about your company’s mission and values, career opportunities, and commitment to diversity and inclusion.  (Three spaces per panel open)</p>
     </div>
     <div class="boxed">
-      Workshop
+      <h>Workshop</h>
+      <h4>IN-PERSON/HYBRID: $350</h4>
+       <h4>VIRTUAL: $250</h4>
+      <p>Outside of our general body meetings, your company can also offer additional workshops of your choice. Past topics have included a resume building/review workshops and the interviewing process.</p>
     </div>
     <div class="boxed">
-      General Body Meeting
+     <h> General Body Meeting</h>
+      <h4>IN-PERSON/HYBRID: $500</h4>
+       <h4>VIRTUAL: $350</h4>
+      <p>Our general body meetings relay organization updates to our members and run for 1 .5 hours. Past meeting topics have included research presentations, information on internship and full-time opportunities, tech talks, and more. (One per quarter available)</p>
     </div>
     <div class="boxed">
-      Professional Evening with Industry (PEI)
+      <h>Professional Evening with Industry (PEI)</h>
+      <h4>TBD</h4>
+      <p>Interact with undergraduate students of the Jacobs School of Engineering in this annual, in- person recruiting event, Professional Evening with Industry. Partnered with four other Diversity Organizations, PEI builds a bridge between all three sectors: the student, the professional, and the community.</p>
     </div>
   </div>
 </div>
