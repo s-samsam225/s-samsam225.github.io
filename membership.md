@@ -30,7 +30,7 @@ title: Membership
   .box-container {
     display: grid;
     grid-template-columns: 
-    gap: 20px; /* Space between boxes */
+    gap: 30px; /* Space between boxes */
     max-width: 1000px; /* Limits width */
   }
 
