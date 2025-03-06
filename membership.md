@@ -23,7 +23,7 @@ title: Membership
     padding: 20px;
     text-align: center;
     width: 80%;
-    max-width: 90%;
+    max-width: 1200px;
     margin-bottom: 30px; /* Adds spacing between boxes */
     box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
   }
