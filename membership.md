@@ -10,7 +10,7 @@ title: Membership
     color: black;
     border: 3px solid #535353;
     width: 700px;
-    height: 400px;
+    height: 350px;
     padding: 10px;
     border-radius: 10px;
     text-align: center;
@@ -20,6 +20,8 @@ title: Membership
   .grid-wrapper {
     display: flex;
     justify-content: center; /* Centers the grid */
+    align-item: center;
+    width:100px;
   }
 
   /* Grid container to arrange boxes */
