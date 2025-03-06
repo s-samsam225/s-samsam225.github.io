@@ -14,6 +14,8 @@ title: Membership
     padding: 10px;
     border-radius: 10px;
     text-align: center;
+    align-items: center; 
+    justify-content: center;
   }
 
   /* Wrapper to center the grid */
