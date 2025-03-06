@@ -32,6 +32,8 @@ title: Membership
     grid-template-columns: 
     gap: 30px; /* Space between boxes */
     max-width: 1000px; /* Limits width */
+    justify-content: center; /* Centers the grid */
+    align-item: center;
   }
 
   @media (max-width: 768px) {
