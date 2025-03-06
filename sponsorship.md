@@ -40,7 +40,7 @@ title: Sponsorship
 <div class="grid-wrapper">
   <div class="box-container">
     <div class="boxed first-box">
-      <h1>Company Panel</h1>
+      <h2>Company Panel</h2>
       <h4>IN-PERSON/HYBRID: $350</h4>
        <h4>VIRTUAL: $250</h4>
       <p>Host a virtual, in person, or hybrid panel to talk to our membership about your company’s mission and values, career opportunities, and commitment to diversity and inclusion.  (Three spaces per panel open)</p>
