@@ -43,10 +43,6 @@ title: Membership
   }
 }
   
-  /* Moves the first box to the left */
-  .first-box {
-    justify-self: start; /* Aligns the first box to the left */
-  }
 </style>
 
 <!-- Wrapper to ensure the grid is centered -->
