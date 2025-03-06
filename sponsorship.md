@@ -15,6 +15,12 @@ title: Sponsorship
     border-radius: 10px;
     text-align: center;
   }
+  @media (max-width: 768px) {
+    .boxed {
+      width: 90%; /* Keeps it readable on small screens */
+      padding: 15px;
+    }
+  }
 
   /* Wrapper to center the grid */
   .grid-wrapper {
